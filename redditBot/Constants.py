@@ -1,0 +1,1 @@
+BOT_INVOKE_STR = "y"
